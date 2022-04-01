@@ -27,17 +27,8 @@ This is a serveless application so it can save data and load it from a database 
 -   _<a href="https://www.markdownguide.org/"> Markdown
     <img height="20px" src="https://user-images.githubusercontent.com/54226652/158957408-e6b0cfb0-4506-4411-9ca9-3eb25151374f.svg" alt="Markdown">
     </a>_
--   _<a href="https://fkhadra.github.io/react-toastify/introduction"> Toastify
-    <img height="20px" src="https://cdn0.iconfinder.com/data/icons/cooking-18/64/toaster-food-breakfast-toast-breads-512.png" alt="Toastify" height="20px">
-    </a>_
--   _<a href="https://reactjs.org/docs/context.html"> Context API
-    <img height="20px" src="https://user-images.githubusercontent.com/54226652/158950038-7e795fee-5c1e-41eb-aefe-539083162384.png" alt="Context API">
-    </a>_
--   _<a href="https://reactrouter.com/"> React Router
-    <img height="20px" src="https://reactrouter.com/favicon.ico" alt="React Router">
-    </a>_
--   _<a href="https://react-icons.github.io/react-icons/"> React Icons
-    <img height="20px" src="https://cdn.icon-icons.com/icons2/48/PNG/128/icons_folder_file_10410.png" alt="React Icons">
+-   _<a href="https://chatengine.io/"> Chat Engine
+    <img height="20px" src="https://chat-engine-assets.s3.amazonaws.com/temp-logo-min.png" alt="Chat engine">
     </a>_
 -   _<a href="https://reactjs.org/docs/hooks-intro.html"> React Hooks
     <img height="20px" src="https://user-images.githubusercontent.com/54226652/158961211-da6036d6-ef66-4f2a-a109-3823c5bcae41.png" alt="React Hooks">
