@@ -4,6 +4,9 @@ Simple chat app developed to better my understanding of React and use an API, as
 
 This is a serveless application so it can save data and load it from a database without needing to worry about the backend and server because firebase and chatengine does it for you. 
 
+Username `Bia` 
+Password `123`
+
 ## _Technologies_ <img src="https://cdn-icons-png.flaticon.com/512/1087/1087840.png"  width="25px" alt="">
 
 -   _<a href="https://reactjs.org/"> React
