@@ -1,3 +1,5 @@
+# The api now costs money to use, so the project is no longer running
+
 # [Falaqui](https://falaqui.netlify.app/) chat app <img src="https://user-images.githubusercontent.com/54226652/161180051-2bfe2577-a688-4625-9666-6b6b212333d0.png" height="45px"> 
 
 Simple chat app developed to better my understanding of React and use an API, aswel firebase
