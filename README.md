@@ -10,8 +10,8 @@ You can create groups send photos and messages.
 
 ## To access it
 
-Username: `Bia` 
-Password: `123`
+Username: `view@gmail.com` 
+Password: `view`
 
 ## _Technologies_ <img src="https://cdn-icons-png.flaticon.com/512/1087/1087840.png"  width="25px" alt="">
 
